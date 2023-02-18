@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversi", "ReversiGame\Reversi.csproj", "{CFDC2EDC-5A2D-475E-A5A7-53A383530C88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReversiLib", "ReversiLib\ReversiLib.csproj", "{8CBDD315-2FB1-4F64-B6C9-2D9D1F543CB9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReversiLibTest", "ReversiLibTest\ReversiLibTest.csproj", "{8F25124D-B593-4F4B-BD31-B5EBED39D1E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFDC2EDC-5A2D-475E-A5A7-53A383530C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDC2EDC-5A2D-475E-A5A7-53A383530C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDC2EDC-5A2D-475E-A5A7-53A383530C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDC2EDC-5A2D-475E-A5A7-53A383530C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CBDD315-2FB1-4F64-B6C9-2D9D1F543CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBDD315-2FB1-4F64-B6C9-2D9D1F543CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBDD315-2FB1-4F64-B6C9-2D9D1F543CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBDD315-2FB1-4F64-B6C9-2D9D1F543CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F25124D-B593-4F4B-BD31-B5EBED39D1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F25124D-B593-4F4B-BD31-B5EBED39D1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F25124D-B593-4F4B-BD31-B5EBED39D1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F25124D-B593-4F4B-BD31-B5EBED39D1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF80AC7-0351-47C2-80B6-C42ECAAAD7F0}
+	EndGlobalSection
+EndGlobal
